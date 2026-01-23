@@ -1,2 +1,2 @@
 # CloudOps-Portfolio
-Documenting my learning path in cloud computing and DecOps
+My cloud and DevOps projects and experiments
